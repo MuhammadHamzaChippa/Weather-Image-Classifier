@@ -1,8 +1,7 @@
 # Weather Image Classifer 
 
 ## Abstract 
-This project predicts the weather of the image which is implemented with the help of Fast.ai library based on Pytorch 
-
+This project predicts the weather condition from the image which is implemented with the help of Fast.ai library based on Pytorch
 ## Algorithms Implemented 
 <ul>
 	<li>Convolution Neural Network's architecture RESNET34 with 96.889 % accuracy </li>
